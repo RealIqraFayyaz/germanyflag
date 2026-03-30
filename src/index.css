@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+h1{
+    text-align: center;
+}
+.flag {
+    width: 500px;
+    height: 300px;
+    border: 2px solid #f2f2f2;
+}
+
+.stripe {
+    height: 100px;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.red {
+    background-color: #ff0000;
+}
+
+.gold {
+    background-color: #ffcc33;
+}
